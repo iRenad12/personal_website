@@ -1,4 +1,3 @@
-# personal_website
 # 🌐 Personal Website
 # 💫 Renad's Personal Website
 
