@@ -1,4 +1,3 @@
-# 🌐 Personal Website
 # 💫 Renad's Personal Website
 
 A simple, responsive personal website built using only **HTML** and **CSS**.  
