@@ -1,4 +1,4 @@
-# 💫 Renad's Personal Website
+# 💫 Personal Website
 
 A simple, responsive personal website built using only **HTML** and **CSS**.  
 Designed to showcase basic information, contact details, and reflect a clean aesthetic — perfect for a personal portfolio or online presence.
